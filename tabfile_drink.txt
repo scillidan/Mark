@@ -1,0 +1,32 @@
+# ISBN13: 9787100196192
+# 标题: 众神的植物
+# 副标题: 神圣、具疗效和致幻力量的植物
+# 作者: 理查德·伊文斯·舒尔兹, 艾伯特·霍夫曼, 克里斯汀·拉
+# 译者: 金恒镳
+# 出版年: 2021
+
+jica	[希卡]<br> Ayahuasca [阿亚瓦斯卡]
+asca	[阿斯卡]
+ayas	[亚斯卡]
+huasca	[瓦斯卡]
+ia	[伊阿]<br>Euphorbia sp. [大戟]<br>润喉
+sacia	[萨西阿]<br>Erythrina spp. [刺桐]<br>通便
+jia	[希阿]<br>Capsicum frutescens [灌木辣椒]<br>强身
+huyaa	[乌亚阿]<br>Couroupita guianensis [炮弹树]<br>健体
+longa	[隆加]<br>Thevetia sp. [黄花夹竹桃]<br>护身
+yusa	[尤萨]<br>Ilex guayusa [瓜尤萨冬青]<br>净化
+sheto	[塞托]<br>Panaeolus sphinctrinus [蕾丝斑褶菇]<br>占卜
+riri	[莉莉]<br>Cyperus sp. [莎草]<br>镇静
+raka	[拉卡]<br>Malouetia tamaquarina [鱼鳃木]<br>安神
+bakawa	[巴卡瓦]<br>Psychotria [九节]<br>强安神
+lama	[拉马]<br>Virola spp. [油楠]<br>视力
+eto	[埃托]<br>Ipomoea carnea [树牵牛]<br>视力
+lma	[尔马]<br>Calathea veitchiana [维奇肖竹芋]<br>视力
+gonansa	[戈南萨]<br>Tabernaemontana sananho [奥南萨山辣椒]<br>炎症
+ruru	[鲁鲁]<br>Alchornea castanaefolia [栗叶山麻秆]<br>痢疾
+napulu	[纳普卢]<br>Chorisia insignis [百花异木棉]<br>肠疾
+rapa	[拉帕]<br>Rapadou [小圆木]<br>骨骼
+naka	[纳卡]<br>Sabicea amazonensis [亚马逊木藤]<br>甜味剂
+mira	[米拉]<br>Lygodium venustum [海金沙]<br>调剂
+more	[莫雷]<br>Pithecellobium laetum [猴耳环]<br>调剂
+suba	[苏瓦]<br>Himatanthus sucuuba [白花夹竹桃]<br>萃取箭草
